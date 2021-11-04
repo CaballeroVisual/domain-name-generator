@@ -1,8 +1,8 @@
 let pronoun = ['the','our'];
 let adj = ['great', 'big' ];
 let noun = ['jogger','racoon'];
-let dominio = ""
-let arreglodom = []
+
+
 
 for (let i = 0; i < pronoun.length; i++) {
     dominio = pronoun[i]
